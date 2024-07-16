@@ -1,6 +1,6 @@
-Ecommerce Project: Little Heart
+E-commerce Project: Little Heart
 
-Description: Developed a monolithic architecture ecommerce website, Little Heart, using Angular for the frontend, Spring Boot for the backend, and PostgreSQL for the database. This project includes role-based authentication, email OTP verification, Spring Security, JWT authentication, and Swagger for API documentation. Hibernate is used for database interaction.
+Description: Developed a monolithic architecture e-commerce website, Little Heart, using Angular for the frontend, Spring Boot for the backend, and PostgreSQL for the database. This project includes role-based authentication, email OTP verification, Spring Security, JWT authentication, and Swagger for API documentation. Hibernate is used for database interaction.
 
 Key Features:
 
@@ -14,3 +14,4 @@ Online Links:
 
 Code Repository: https://github.com/akanjan/LittleHeartBack
 Live Project: https://littleheart.netlify.app/
+![Screenshot 1](https://github.com/user-attachments/assets/decf814b-9182-40f2-919e-07e3e2f8f933)

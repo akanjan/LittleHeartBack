@@ -15,7 +15,9 @@ Tools and Technologies:
 
 **Online Links:**
 
-**Code Repository:** https://github.com/akanjan/LittleHeartBack
+**Code Repository:** Backend : https://github.com/akanjan/LittleHeartBack
+
+Frontend : https://github.com/akanjan/LittleHeartFront/tree/main
 
 **Live Project:** https://littleheart.netlify.app/
 

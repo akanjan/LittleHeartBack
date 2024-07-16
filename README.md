@@ -1,3 +1,5 @@
+# LittleHeart
+
 E-commerce Project: **Little Heart**
 
 Description: Developed a monolithic architecture e-commerce website, Little Heart, using Angular for the front end, Spring Boot for the backend, and PostgreSQL for the database. This project includes role-based authentication, email OTP verification, Spring Security, JWT authentication, and Swagger for API documentation. Hibernate is used for database interaction.
@@ -36,6 +38,10 @@ Login Page :
 User Profile Page :
 
 ![User Profile](https://github.com/user-attachments/assets/4b567aad-6848-4997-8a83-ed6ffd467792)
+
+Cart Page :
+
+![Screenshot 3](https://github.com/user-attachments/assets/0e8bfe65-a5b0-488f-80ae-4981307d4fe7)
 
 Billing Page :
 
